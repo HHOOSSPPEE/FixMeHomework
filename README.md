@@ -4,4 +4,4 @@
 - Unity will want to boot in "safe mode". Press ignore.
 - You will be editing the FIXME.cs script as well as checking the Square objects in the scene. 
 - Your homework is complete if your script runs without errors and ALL 12 squares are visible when you play the game.
-- Submit the fixed FIXME.cs file to Canvas.
+- Submit the your fixed project to Canvas as a zip.
